@@ -9,7 +9,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>![Açıklama](https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/resim.png)</td>
+ <img src="https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/resim.png" alt="1" width="300">
       </tr>
       <tr>
         <td>2</td>
