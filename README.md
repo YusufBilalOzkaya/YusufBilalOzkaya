@@ -3,7 +3,6 @@
   <thead>
     <tr>
       <th>proje</th>
-      <th>/th>
     </tr>
   </thead>
   <tbody>
