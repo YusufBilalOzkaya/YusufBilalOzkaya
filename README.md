@@ -1,16 +1,29 @@
-## Hi there 👋
+<body><h1>merhaba!</h1>
+<table>
+<thead>
+  baslık kısmı
+</thead>
+<tbody>
+  <td>
+  <tr>1</tr></td>
+   <td>
+  <tr>2</tr></td>
+</tbody>
+<tfoot>
+   <td>
+  <tr>3</tr></td>
+</tfoot>
 
-<!--
-**YusufBilalOzkaya/YusufBilalOzkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+son..
+  
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+</body>
