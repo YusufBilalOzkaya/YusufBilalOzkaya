@@ -1,27 +1,24 @@
-<body>
-  <h1>Merhaba!</h1>
+<h2>🖼️ Uygulama Görselleri</h2>
 
-  <table border="1">
-    <thead>
-      <tr>
-        <th>Başlık Kısmı</th>
-      </tr>
-    </thead>
-    <tbody>
-      https://raw.githubusercontent.com/YusufBilalOzkaya/BlackHole/main/app.png
-      <tr>
- <img src="https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/resim.png" alt="1" width="300">
-      </tr>
-      <tr>
-        <td>2</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>3</td>
-      </tr>
-    </tfoot>
-  </table>
-
-  <p>Son..</p>
-</body>
+<table>
+  <thead>
+    <tr>
+      <th>Görsel</th>
+      <th>Açıklama</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/YusufBilalOzkaya/BlackHole/main/app.png" width="300"></td>
+      <td>Uygulamanın ana ekranı</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/YusufBilalOzkaya/BlackHole/main/multipletimes.jpg" width="300"></td>
+      <td>Çoklu işlem görüntüsü</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/YusufBilalOzkaya/BlackHole/main/fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg" width="300"></td>
+      <td>Arayüz detayları</td>
+    </tr>
+  </tbody>
+</table>
