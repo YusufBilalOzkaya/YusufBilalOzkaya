@@ -1,10 +1,9 @@
-<h2>🖼️ Uygulama Görselleri</h2>
-
+<h1>Hoşgeldiniz</h1>
 <table>
   <thead>
     <tr>
-      <th>Görsel</th>
-      <th>Açıklama</th>
+      <th>proje</th>
+      <th>/th>
     </tr>
   </thead>
   <tbody>
