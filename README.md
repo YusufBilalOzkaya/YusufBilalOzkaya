@@ -14,18 +14,3 @@
     </tr>
   </tbody>
 </table>
-.full-image {
-  /* Resmin bulunduğu hücrenin genişliğini %100 kaplamasını sağlar */
-  width: 100%; 
-  
-  /* Yüksekliği orantılı olarak ayarlar (bozulmayı engeller) */
-  height: auto; 
-  
-  /* Ekran görüntüsündeki boşluğu engellemek için */
-  display: block; 
-}
-
-/* Tablo hücrelerindeki gereksiz boşlukları kaldırmak için (isteğe bağlı ama tavsiye edilir) */
-td {
-    padding: 0;
-}
